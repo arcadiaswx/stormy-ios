@@ -1,7 +1,8 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.0.16.9 clang-1000.10.25.3)"
 options: "1418d38f20f3cac5b328b0350e24e4aa"
-build_time: [1532573505, 655430000]
+build_time: [1532574673, 870563000]
 inputs:
-  "/Users/craig/Repos/projects/ios/Stormy/Stormy/ViewController.swift": [1532573278, 0]
-  "/Users/craig/Repos/projects/ios/Stormy/Stormy/CurrentWeather.swift": [9223372036, 854775807]
-  "/Users/craig/Repos/projects/ios/Stormy/Stormy/AppDelegate.swift": [1532573278, 0]
+  "/Users/craig/Repos/projects/ios/Stormy/Stormy/ViewController.swift": [1532574673, 0]
+  "/Users/craig/Repos/projects/ios/Stormy/Stormy/CurrentWeather.swift": [1532574155, 0]
+  "/Users/craig/Repos/projects/ios/Stormy/Stormy/AppDelegate.swift": [1532574673, 0]
+  "/Users/craig/Repos/projects/ios/Stormy/Stormy/CurrentWeatherViewModel.swift": [9223372036, 854775807]
