@@ -196,11 +196,22 @@ SWIFT_CLASS("_TtC6Stormy11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIButton;
+@class UIActivityIndicatorView;
+@class UILabel;
+@class UIImageView;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC6Stormy14ViewController")
 @interface ViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified refreshButton;
+@property (nonatomic, weak) IBOutlet UIActivityIndicatorView * _Null_unspecified activityIndicator;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified currentTemperatureLabel;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified currentHumidityLabel;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified currentSummaryLabel;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified currentPrecipitationLabel;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified currentWeatherIcon;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
