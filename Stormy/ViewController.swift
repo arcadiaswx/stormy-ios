@@ -3,7 +3,7 @@
 //  Stormy
 //
 //  Created by Craig on 7/25/18.
-//  Copyright © 2018 ITECH PLUS. All rights reserved.
+//  Copyright © 2018 Arcadia Softworks. All rights reserved.
 //
 
 import UIKit
