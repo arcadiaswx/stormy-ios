@@ -10,6 +10,10 @@ import Foundation
 import UIKit
 
 struct CurrentWeatherViewModel {
-    
+    let temperature: String
+    let humidity: String
+    let precipitationProbability: String
+    let summary: String
+    let icon: UIImage
     
 }
