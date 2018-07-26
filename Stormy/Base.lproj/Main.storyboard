@@ -121,13 +121,13 @@
                         <viewLayoutGuide key="safeArea" id="68Y-un-TjQ"/>
                     </view>
                     <connections>
-                        <outlet property="activityIndicator" destination="YZ9-uo-Xc7" id="1s7-uF-t8Z"/>
-                        <outlet property="currentHumidityLabel" destination="9Ke-4B-sIc" id="SZS-6Q-No2"/>
-                        <outlet property="currentPrecipitationLabel" destination="MND-th-j9G" id="fdN-qG-9B9"/>
-                        <outlet property="currentSummaryLabel" destination="kt2-Gv-uTP" id="NpN-fh-QtI"/>
-                        <outlet property="currentTemperatureLabel" destination="1d4-4Q-uoc" id="Hux-ge-JCJ"/>
-                        <outlet property="currentWeatherIcon" destination="fqq-7G-u7l" id="WjJ-LU-RRo"/>
-                        <outlet property="refreshButton" destination="iwh-fM-WeO" id="AOu-84-1he"/>
+                        <outlet property="activityIndicator" destination="YZ9-uo-Xc7" id="Jkg-Eo-0lu"/>
+                        <outlet property="currentHumidityLabel" destination="9Ke-4B-sIc" id="FKH-mZ-gss"/>
+                        <outlet property="currentPrecipitationLabel" destination="MND-th-j9G" id="Wpr-fQ-l9d"/>
+                        <outlet property="currentSummaryLabel" destination="kt2-Gv-uTP" id="Bib-P7-Lj9"/>
+                        <outlet property="currentTemperatureLabel" destination="1d4-4Q-uoc" id="XiI-PV-6sz"/>
+                        <outlet property="currentWeatherIcon" destination="fqq-7G-u7l" id="NxB-Qk-hY1"/>
+                        <outlet property="refreshButton" destination="iwh-fM-WeO" id="jwG-dT-mki"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="QnF-od-oIh" sceneMemberID="firstResponder"/>
